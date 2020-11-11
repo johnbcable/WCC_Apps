@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "DBEntitiesLib"
+		},
+		{
+			"path": "DBContextLib"
+		},
+		{
+			"path": "WCCMvc"
+		}
+	]
+}

@@ -1,0 +1,4 @@
+C:\Users\jcab\source\repos\WCC_Apps\DBContextLib\obj\Debug\netstandard2.0\DBContextLib.csprojAssemblyReference.cache
+C:\Users\jcab\source\repos\WCC_Apps\DBContextLib\obj\Debug\netstandard2.0\DBContextLib.AssemblyInfoInputs.cache
+C:\Users\jcab\source\repos\WCC_Apps\DBContextLib\obj\Debug\netstandard2.0\DBContextLib.AssemblyInfo.cs
+C:\Users\jcab\source\repos\WCC_Apps\DBContextLib\obj\Debug\netstandard2.0\DBContextLib.csproj.CoreCompileInputs.cache

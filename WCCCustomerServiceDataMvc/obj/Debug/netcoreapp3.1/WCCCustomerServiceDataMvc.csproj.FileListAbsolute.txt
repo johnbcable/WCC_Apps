@@ -1,0 +1,8 @@
+C:\Users\jcab\source\repos\WCC_Apps\WCCCustomerServiceDataMvc\obj\Debug\netcoreapp3.1\WCCCustomerServiceDataMvc.csprojAssemblyReference.cache
+C:\Users\jcab\source\repos\WCC_Apps\WCCCustomerServiceDataMvc\obj\Debug\netcoreapp3.1\WCCCustomerServiceDataMvc.AssemblyInfoInputs.cache
+C:\Users\jcab\source\repos\WCC_Apps\WCCCustomerServiceDataMvc\obj\Debug\netcoreapp3.1\WCCCustomerServiceDataMvc.AssemblyInfo.cs
+C:\Users\jcab\source\repos\WCC_Apps\WCCCustomerServiceDataMvc\obj\Debug\netcoreapp3.1\WCCCustomerServiceDataMvc.csproj.CoreCompileInputs.cache
+C:\Users\jcab\source\repos\WCC_Apps\WCCCustomerServiceDataMvc\obj\Debug\netcoreapp3.1\WCCCustomerServiceDataMvc.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jcab\source\repos\WCC_Apps\WCCCustomerServiceDataMvc\obj\Debug\netcoreapp3.1\WCCCustomerServiceDataMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jcab\source\repos\WCC_Apps\WCCCustomerServiceDataMvc\obj\Debug\netcoreapp3.1\WCCCustomerServiceDataMvc.RazorAssemblyInfo.cache
+C:\Users\jcab\source\repos\WCC_Apps\WCCCustomerServiceDataMvc\obj\Debug\netcoreapp3.1\WCCCustomerServiceDataMvc.RazorAssemblyInfo.cs

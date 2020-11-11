@@ -1,0 +1,12 @@
+C:\Users\jcab\source\repos\WCC_Apps\WCCCustomerServiceDataContextLib\obj\Debug\netstandard2.1\WCCCustomerServiceDataContextLib.csprojAssemblyReference.cache
+C:\Users\jcab\source\repos\WCC_Apps\WCCCustomerServiceDataContextLib\obj\Debug\netstandard2.1\WCCCustomerServiceDataContextLib.AssemblyInfoInputs.cache
+C:\Users\jcab\source\repos\WCC_Apps\WCCCustomerServiceDataContextLib\obj\Debug\netstandard2.1\WCCCustomerServiceDataContextLib.AssemblyInfo.cs
+C:\Users\jcab\source\repos\WCC_Apps\WCCCustomerServiceDataContextLib\obj\Debug\netstandard2.1\WCCCustomerServiceDataContextLib.csproj.CoreCompileInputs.cache
+C:\Users\jcab\source\repos\WCC_Apps\WCCCustomerServiceDataContextLib\bin\Debug\netstandard2.1\WCCCustomerServiceDataContextLib.deps.json
+C:\Users\jcab\source\repos\WCC_Apps\WCCCustomerServiceDataContextLib\bin\Debug\netstandard2.1\WCCCustomerServiceDataContextLib.dll
+C:\Users\jcab\source\repos\WCC_Apps\WCCCustomerServiceDataContextLib\bin\Debug\netstandard2.1\WCCCustomerServiceDataContextLib.pdb
+C:\Users\jcab\source\repos\WCC_Apps\WCCCustomerServiceDataContextLib\bin\Debug\netstandard2.1\WCCCustomerServiceDataEntitiesLib.dll
+C:\Users\jcab\source\repos\WCC_Apps\WCCCustomerServiceDataContextLib\bin\Debug\netstandard2.1\WCCCustomerServiceDataEntitiesLib.pdb
+C:\Users\jcab\source\repos\WCC_Apps\WCCCustomerServiceDataContextLib\obj\Debug\netstandard2.1\WCCCustomerServiceDataContextLib.csproj.CopyComplete
+C:\Users\jcab\source\repos\WCC_Apps\WCCCustomerServiceDataContextLib\obj\Debug\netstandard2.1\WCCCustomerServiceDataContextLib.dll
+C:\Users\jcab\source\repos\WCC_Apps\WCCCustomerServiceDataContextLib\obj\Debug\netstandard2.1\WCCCustomerServiceDataContextLib.pdb

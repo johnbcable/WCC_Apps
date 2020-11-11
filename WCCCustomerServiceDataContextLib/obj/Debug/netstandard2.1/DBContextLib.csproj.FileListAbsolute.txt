@@ -1,0 +1,12 @@
+C:\Users\jcab\source\repos\WCC_Apps\DBContextLib\obj\Debug\netstandard2.1\DBContextLib.csprojAssemblyReference.cache
+C:\Users\jcab\source\repos\WCC_Apps\DBContextLib\obj\Debug\netstandard2.1\DBContextLib.AssemblyInfoInputs.cache
+C:\Users\jcab\source\repos\WCC_Apps\DBContextLib\obj\Debug\netstandard2.1\DBContextLib.AssemblyInfo.cs
+C:\Users\jcab\source\repos\WCC_Apps\DBContextLib\obj\Debug\netstandard2.1\DBContextLib.csproj.CoreCompileInputs.cache
+C:\Users\jcab\source\repos\WCC_Apps\DBContextLib\bin\Debug\netstandard2.1\DBContextLib.deps.json
+C:\Users\jcab\source\repos\WCC_Apps\DBContextLib\bin\Debug\netstandard2.1\DBContextLib.dll
+C:\Users\jcab\source\repos\WCC_Apps\DBContextLib\bin\Debug\netstandard2.1\DBContextLib.pdb
+C:\Users\jcab\source\repos\WCC_Apps\DBContextLib\bin\Debug\netstandard2.1\DBEntitiesLib.dll
+C:\Users\jcab\source\repos\WCC_Apps\DBContextLib\bin\Debug\netstandard2.1\DBEntitiesLib.pdb
+C:\Users\jcab\source\repos\WCC_Apps\DBContextLib\obj\Debug\netstandard2.1\DBContextLib.csproj.CopyComplete
+C:\Users\jcab\source\repos\WCC_Apps\DBContextLib\obj\Debug\netstandard2.1\DBContextLib.dll
+C:\Users\jcab\source\repos\WCC_Apps\DBContextLib\obj\Debug\netstandard2.1\DBContextLib.pdb
